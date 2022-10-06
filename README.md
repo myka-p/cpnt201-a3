@@ -2,5 +2,4 @@
 Assignment 3 - Merge Conflicts
 
 authors:  
-Myka Peligrino
-LJ Baguio
+Myka Peligrino & LJ Baguio
